@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cameron!
+# 👋 Hi, I'm Cam!
 👩🏻‍💻 Site Reliability Engineer sharing my learnings in tech<br/>
 💭 Currently learning about AWS and IaC!<br/>
 
