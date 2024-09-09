@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cam!
 👩🏻‍💻 Site Reliability Engineer sharing my learnings in tech<br/>
-💭 Currently learning about AWS and IaC!<br/>
+💭 Currently learning about Docker, Kubernetes, and IaC!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=camtwatson&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
