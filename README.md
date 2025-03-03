@@ -2,9 +2,6 @@
 👩🏻‍💻 Site Reliability Engineer sharing my learnings in tech<br/>
 💭 Currently learning about Docker, Kubernetes, and Go!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=camtwatson&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
