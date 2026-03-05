@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Cam!
-👩🏻‍💻 Site Reliability Engineer sharing my learnings in tech<br/>
-💭 Currently learning about Docker, Kubernetes, and Go!<br/>
+👩🏻‍💻 Site Reliability Engineer <br/>
+
+
+<!--
+**camtwatson/camtwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -16,9 +19,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-
-<!--
-**camtwatson/camtwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
