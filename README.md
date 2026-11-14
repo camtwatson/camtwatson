@@ -4,23 +4,12 @@
 ```bash
 $ whoami
 
-Senior SRE | Cloud Enthusiast | Automation Addict
+Senior SRE 
 
-$ uptime
-
-Building things, breaking things, learning things.
 ```
 
 ---
 
-## ⚡ Currently Building
-
-- 🔧 Automating infrastructure with Terraform
-- ☸️ Exploring Kubernetes, Helm & Cilium
-- 📡 Making observability observable with OpenTelemetry
-- 🐍 Automating the boring stuff with Python
-- 🐹 Exploring Go and cloud-native development
-- ☁️ Diving deeper into AWS and AI infrastructure
 
 ## 🧰 My Toolbox
 
