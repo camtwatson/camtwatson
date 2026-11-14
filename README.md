@@ -52,22 +52,6 @@ Building things, breaking things, learning things.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camtwatson&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camtwatson&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=camtwatson&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=camtwatson&theme=tokyo-night&hide_border=true)
-
----
-
 ## 🐍 Watch the contributions go by
 
 ![Snake animation](https://raw.githubusercontent.com/camtwatson/camtwatson/output/github-contribution-grid-snake-dark.svg)
