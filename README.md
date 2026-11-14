@@ -1,6 +1,85 @@
-# 👋 Hi, I'm Cam!
+<!--# # 👋 Hi, I'm Cam!
 👩🏻‍💻 Site Reliability Engineer <br/>
+-->
+```bash
+$ whoami
 
+Senior SRE | Cloud Enthusiast | Automation Addict
+
+$ uptime
+
+Building things, breaking things, learning things.
+```
+
+---
+
+## ⚡ Currently Building
+
+- 🔧 Automating infrastructure with Terraform
+- ☸️ Exploring Kubernetes, Helm & Cilium
+- 📡 Making observability observable with OpenTelemetry
+- 🐍 Automating the boring stuff with Python
+- 🐹 Exploring Go and cloud-native development
+- ☁️ Diving deeper into AWS and AI infrastructure
+
+## 🧰 My Toolbox
+
+### 💻 Languages & Scripting
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🚀 Containers & Platform Engineering
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
+
+### 📡 Observability
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camtwatson&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camtwatson&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=camtwatson&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=camtwatson&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🐍 Watch the contributions go by
+
+![Snake animation](https://raw.githubusercontent.com/camtwatson/camtwatson/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+```bash
+$ echo "Thanks for stopping by!"
+Thanks for stopping by! ☕
+```
+
+*Automate everything. Trust nothing. Monitor everything.*
 
 <!--
 **camtwatson/camtwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
